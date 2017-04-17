@@ -1,0 +1,15 @@
+{
+  "From": "name@gmail.com",
+  "LogFilePath": "./monitor.log",
+  "Wait": 120,
+  "Timeout": 10,
+  "Recipient": "name@gmail.com",
+  "Mailserver": "smtp.gmail.com",
+  "Port": 465,
+  "Username": "name@gmail.com",
+  "Password": "PASSWORD",
+  "Sites": [
+    "https://google.com",
+    "https://gnu.org"
+  ]
+}
